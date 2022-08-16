@@ -1,4 +1,4 @@
-# calendar-app
+# calendar-app (MERN)
 fully completed calendar app
 
 React 18, node.js, mongodb.
